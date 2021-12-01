@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Bill Gates">
+    <company>Microsoft</company>
+    <age>48</age>
+    <nat>American</nat>
+  </user>
+  <user name="Larry Page">
+    <company>Google</company>
+    <age>42</age>
+    <nat>Russian</nat>
+  </user>
+  <user name="Jora Prosta">
+    <company>Ferma</company>
+    <age>51</age>
+    <nat>Moldavanet</nat>
+  </user>
+  <user name="Lenta Vitra">
+    <company>Macc</company>
+    <age>18</age>
+    <nat>Indus</nat>
+  </user>
+  <user name="Mark Zuckerberg">
+    <company>Facebook</company>
+    <age>30</age>
+  </user>
+</users>
